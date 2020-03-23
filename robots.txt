@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haengeiwi.zhenger.xyz/sitemap.xml
